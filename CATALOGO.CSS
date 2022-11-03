@@ -1,0 +1,9 @@
+figure{
+    margin: 0;
+    display: inline-block;
+    border: 2px solid black;
+}
+body{
+    background: url(https://png.pngtree.com/thumb_back/fw800/background/20190220/ourmid/pngtree-simple-red-texture-gradient-image_7805.jpg);
+    background-size: cover;
+}

@@ -1,0 +1,15 @@
+img:hover{
+    border-style: solid;
+    transform: scale(0.9);
+    }
+img{
+    border: 1px solid black;
+    border-collapse: collapse;
+    transition: all 0,5s ease;
+    border: black;
+
+}
+body{
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20190220/ourmid/pngtree-simple-red-texture-gradient-image_7805.jpg);
+    background-size: cover;
+}
